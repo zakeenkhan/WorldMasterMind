@@ -20,9 +20,11 @@ Here's what the game looks like:
 
 ## Live Demo
 
-🎮 **[Play the game now!](http://localhost:3333)** (when running locally)
+🎮 **[Play the game now!](https://word-mastermind.glitch.me/)** - Try it instantly in your browser!
 
-You can also try it out on Glitch:
+### Other Language Versions
+
+You can also try different language dictionaries:
 
 * [English](https://word-mastermind.glitch.me/)
 * [Romanian](https://word-mastermind.glitch.me/?dictName=ro-ro-5)
