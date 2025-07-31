@@ -8,9 +8,21 @@ It's like the [MasterMind game](https://en.wikipedia.org/wiki/Mastermind_(board_
 * The original game only allows one word per day. This one can be played endlessly.
 * Can work with custom dictionary files
 
-## Demo
+## Screenshots
 
-You can try it out on Glitch:
+Here's what the game looks like:
+
+![Game Screenshot](assets/sc/game.JPG)
+*Dark mode gameplay*
+
+![Game Screenshot Light Mode](assets/sc/whitebg.JPG)
+*Light mode gameplay*
+
+## Live Demo
+
+🎮 **[Play the game now!](http://localhost:3333)** (when running locally)
+
+You can also try it out on Glitch:
 
 * [English](https://word-mastermind.glitch.me/)
 * [Romanian](https://word-mastermind.glitch.me/?dictName=ro-ro-5)
